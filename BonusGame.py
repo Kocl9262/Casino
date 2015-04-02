@@ -21,7 +21,7 @@ else:
         print("")
         print("Game over!")
     else:
-        print("Widow is sealed shut. There is no escaping trough that window.")
+        print("Window is sealed shut. There is no escaping trough that window.")
         print("You look at the door and see shadow under it.")
         print("You know someone is standing there.")
         print("If kidnapper opens the door it might be your only chance to escape")
